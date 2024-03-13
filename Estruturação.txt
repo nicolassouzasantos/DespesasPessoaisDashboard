@@ -1,0 +1,7 @@
+Projeto: Dashboard para controle de gastos pessoais e rendas, integrar o python 
+com banco de dados sql, mostrar tabelas e gráficos com os gastos e rendas
+
+Banco de Dados: Algo simples, apenas com as Entidades:
+- Despesas: #ID, Categoria, Data, Valor
+- Receitas: #ID, Categoria, Data, Valor
+- Saldo: Valor Restante
